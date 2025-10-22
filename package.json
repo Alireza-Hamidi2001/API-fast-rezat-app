@@ -1,0 +1,11 @@
+{
+    "name": "fast-pizza-api",
+    "version": "1.0.0",
+    "description": "Fast Pizza API",
+    "type": "module",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {}
+}
