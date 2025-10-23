@@ -87,7 +87,7 @@ const menu = {
             name: "Spicy Tuna Roll",
             unitPrice: 8,
             imageUrl:
-                "https://res.cloudinary.com/direu398z/image/upload/v1761120538/%DA%86%D9%84%D9%88%D9%85%DB%8C%DA%A9%D8%B3_xklqqu.png",
+                "https://res.cloudinary.com/direu398z/image/upload/v1761120740/sushi3-removebg-preview_h6ilf2.png",
             ingredients: ["Fresh tuna", "Nori", "Green onions", "Cucumber"],
             soldOut: false,
         },
