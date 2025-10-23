@@ -3,38 +3,43 @@ const menu = {
     data: [
         {
             id: 1,
-            name: "Focaccia",
+            name: "Margherita Pesto",
             unitPrice: 6,
             imageUrl:
-                "https://res.cloudinary.com/direu398z/image/upload/v1761119155/pizza1-removebg-preview_vqavdc.png",
-            ingredients: ["Bread", "olive oil", "rosemary"],
+                "https://res.cloudinary.com/direu398z/image/upload/v1761249294/pizza103-removebg-preview_alo9t1.png",
+            ingredients: [
+                "Fresh tomatoes",
+                "creamy mozzarella",
+                "basil",
+                "pesto",
+            ],
             soldOut: false,
         },
         {
             id: 2,
-            name: "Pizza Margherita",
+            name: "Tropical Bacon",
             unitPrice: 10,
             imageUrl:
-                "https://res.cloudinary.com/direu398z/image/upload/v1761119849/pizza2-removebg-preview_uobzwt.png",
-            ingredients: ["Tomato", "mozzarella"],
+                "https://res.cloudinary.com/direu398z/image/upload/v1761249296/pizza102-removebg-preview_nscmdo.png",
+            ingredients: ["Bacon", "pineapple", "cheese", "special sauce"],
             soldOut: false,
         },
         {
             id: 3,
-            name: "Pizza Margherita",
+            name: "Classic Pepperoni",
             unitPrice: 10,
             imageUrl:
-                "https://res.cloudinary.com/direu398z/image/upload/v1761119873/pizza3-removebg-preview_aghyv8.png",
-            ingredients: ["Tomato", "mozzarella"],
+                "https://res.cloudinary.com/direu398z/image/upload/v1761249286/pizza101-removebg-preview_kswlfr.png",
+            ingredients: ["Pepperoni", "Mushrooms", "cheese"],
             soldOut: false,
         },
         {
             id: 4,
-            name: "Pizza Margherita",
+            name: "Forest Feast",
             unitPrice: 10,
             imageUrl:
-                "https://res.cloudinary.com/direu398z/image/upload/v1761119897/pizza4-removebg-preview_jj53tr.png",
-            ingredients: ["Tomato", "mozzarella"],
+                "https://res.cloudinary.com/direu398z/image/upload/v1761249428/pizza105-removebg-preview_dv0iuu.png",
+            ingredients: ["Fresh mushrooms", "gooey cheese", "savory sausage"],
             soldOut: false,
         },
         {
