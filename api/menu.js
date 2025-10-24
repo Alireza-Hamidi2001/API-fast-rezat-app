@@ -4,6 +4,7 @@ const menu = {
         {
             id: 1,
             name: "Margherita Pesto",
+            category: "fastfood",
             unitPrice: 6,
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1761249294/pizza103-removebg-preview_alo9t1.png",
@@ -18,6 +19,7 @@ const menu = {
         {
             id: 2,
             name: "Tropical Bacon",
+            category: "fastfood",
             unitPrice: 10,
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1761249296/pizza102-removebg-preview_nscmdo.png",
@@ -27,6 +29,7 @@ const menu = {
         {
             id: 3,
             name: "Classic Pepperoni",
+            category: "fastfood",
             unitPrice: 10,
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1761249286/pizza101-removebg-preview_kswlfr.png",
@@ -36,6 +39,7 @@ const menu = {
         {
             id: 4,
             name: "Forest Feast",
+            category: "fastfood",
             unitPrice: 10,
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1761249428/pizza105-removebg-preview_dv0iuu.png",
@@ -45,6 +49,7 @@ const menu = {
         {
             id: 5,
             name: "Rice and Kebab",
+            category: "iranianMeal",
             unitPrice: 14,
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1761120427/%DA%86%D9%84%D9%88%DA%A9%D8%A8%D8%A7%D8%A8-removebg-preview_thfk6g.png",
@@ -54,6 +59,7 @@ const menu = {
         {
             id: 6,
             name: "Rice and Gheyme",
+            category: "iranianMeal",
             unitPrice: 12,
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1761120501/%D9%82%DB%8C%D9%85%D9%87-removebg-preview_ksujvf.png",
@@ -63,6 +69,7 @@ const menu = {
         {
             id: 7,
             name: "Rice and Chicken",
+            category: "iranianMeal",
             unitPrice: 14,
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1761120471/%DA%86%D9%84%D9%88%D9%85%D8%B1%D8%BA_c6uj6n.png",
@@ -72,6 +79,7 @@ const menu = {
         {
             id: 8,
             name: "Rice and Mix",
+            category: "iranianMeal",
             unitPrice: 15,
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1761120538/%DA%86%D9%84%D9%88%D9%85%DB%8C%DA%A9%D8%B3_xklqqu.png",
@@ -81,6 +89,7 @@ const menu = {
         {
             id: 9,
             name: "Rice and Meat",
+            category: "iranianMeal",
             unitPrice: 18,
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1761120758/%DA%86%D9%86%D8%AC%D9%87-removebg-preview_hlfhh5.png",
@@ -90,6 +99,7 @@ const menu = {
         {
             id: 10,
             name: "Spicy Tuna Roll",
+            category: "sushi",
             unitPrice: 8,
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1761120740/sushi3-removebg-preview_h6ilf2.png",
@@ -99,6 +109,7 @@ const menu = {
         {
             id: 11,
             name: "Salmon Nigiri",
+            category: "sushi",
             unitPrice: 8,
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1761120745/sudhi4-removebg-preview_vnu7uv.png",
@@ -108,6 +119,7 @@ const menu = {
         {
             id: 12,
             name: "Coca-Cola",
+            category: "drink",
             unitPrice: 8,
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1761121043/coca-removebg-preview_losayf.png",
@@ -117,6 +129,7 @@ const menu = {
         {
             id: 13,
             name: "Pepsi",
+            category: "drink",
             unitPrice: 8,
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1761121062/pepsi-removebg-preview_trody3.png",
