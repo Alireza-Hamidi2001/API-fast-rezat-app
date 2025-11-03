@@ -126,9 +126,9 @@ const menu = {
             id: 13,
             name: "Special Pizza",
             category: "pizza",
-            unitPrice: 12,
+            unitPrice: 16,
             imageUrl:
-                "https://res.cloudinary.com/direu398z/image/upload/v1761972660/pizza5_mxxarx.png",
+                "https://res.cloudinary.com/direu398z/image/upload/v1762144059/2_pm4zpe.png",
             ingredients: [
                 "Tomato-sauce",
                 "Cheese",
@@ -143,9 +143,9 @@ const menu = {
             id: 14,
             name: "Veggie Pizza",
             category: "pizza",
-            unitPrice: 13,
+            unitPrice: 10,
             imageUrl:
-                "https://res.cloudinary.com/direu398z/image/upload/v1761249294/pizza103-removebg-preview_alo9t1.png",
+                "https://res.cloudinary.com/direu398z/image/upload/v1762144052/1_vqgneq.png",
             ingredients: [
                 "Tomato-sauce",
                 "Cheese",
@@ -163,17 +163,47 @@ const menu = {
             category: "pizza",
             unitPrice: 13,
             imageUrl:
-                "https://res.cloudinary.com/direu398z/image/upload/v1761249286/pizza101-removebg-preview_kswlfr.png",
+                "https://res.cloudinary.com/direu398z/image/upload/v1762144160/5_v5gijz.png",
             ingredients: ["Tomato-sauce", "Cheese", "Pepperoni"],
             soldOut: false,
         },
         {
             id: 16,
+            name: "Cheese Pizza",
+            category: "pizza",
+            unitPrice: 14,
+            imageUrl:
+                "https://res.cloudinary.com/direu398z/image/upload/v1762144146/3_jarjfd.png",
+            ingredients: ["Tomato-sauce", "Cheese", "bell pepper"],
+            soldOut: false,
+        },
+        {
+            id: 17,
+            name: "Mushroom Pizza",
+            category: "pizza",
+            unitPrice: 11,
+            imageUrl:
+                "https://res.cloudinary.com/direu398z/image/upload/v1762144164/6_vy8g5m.png",
+            ingredients: ["Tomato-sauce", "mushroom", "beaf"],
+            soldOut: false,
+        },
+        {
+            id: 18,
+            name: "Chicken Pizza",
+            category: "pizza",
+            unitPrice: 12.5,
+            imageUrl:
+                "https://res.cloudinary.com/direu398z/image/upload/v1762144160/5_v5gijz.png",
+            ingredients: ["Tomato-sauce", "Chicken", "onion"],
+            soldOut: false,
+        },
+        {
+            id: 19,
             name: "Coca-Cola",
             category: "drinks",
             unitPrice: 8,
             imageUrl:
-                "https://res.cloudinary.com/direu398z/image/upload/v1761121043/coca-removebg-preview_losayf.png",
+                "https://res.cloudinary.com/direu398z/image/upload/v1762145238/coca-removebg-preview_pmsdmb.png",
             ingredients: ["Fizzy drink"],
             soldOut: false,
         },
@@ -183,7 +213,17 @@ const menu = {
             category: "drinks",
             unitPrice: 8,
             imageUrl:
-                "https://res.cloudinary.com/direu398z/image/upload/v1761121062/pepsi-removebg-preview_trody3.png",
+                "https://res.cloudinary.com/direu398z/image/upload/v1762145244/pepsi-removebg-preview_hl96ak.png",
+            ingredients: ["Fizzy drink"],
+            soldOut: false,
+        },
+        {
+            id: 18,
+            name: "Sprite",
+            category: "drinks",
+            unitPrice: 8,
+            imageUrl:
+                "https://res.cloudinary.com/direu398z/image/upload/v1762145251/sprite-removebg-preview_tay3w3.png",
             ingredients: ["Fizzy drink"],
             soldOut: false,
         },
