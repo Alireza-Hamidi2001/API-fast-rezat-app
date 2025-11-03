@@ -29,7 +29,7 @@ const menu = {
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1761970644/ham1_cjnwyp.png",
             ingredients: ["Bun", "Beef", "BBQ-sauce"],
-            soldOut: false,
+            soldOut: true,
         },
         {
             id: 4,
@@ -59,7 +59,7 @@ const menu = {
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1761970670/ham6_wfpxb4.png",
             ingredients: ["Bun", "Salmon", "Cabage"],
-            soldOut: false,
+            soldOut: true,
         },
         {
             id: 7,
@@ -90,7 +90,7 @@ const menu = {
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1761120501/%D9%82%DB%8C%D9%85%D9%87-removebg-preview_ksujvf.png",
             ingredients: ["Rice", "Gheyme"],
-            soldOut: false,
+            soldOut: true,
         },
         {
             id: 10,
@@ -175,7 +175,7 @@ const menu = {
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1762144146/3_jarjfd.png",
             ingredients: ["Tomato-sauce", "Cheese", "bell pepper"],
-            soldOut: false,
+            soldOut: true,
         },
         {
             id: 17,
@@ -195,7 +195,7 @@ const menu = {
             imageUrl:
                 "https://res.cloudinary.com/direu398z/image/upload/v1762144160/5_v5gijz.png",
             ingredients: ["Tomato-sauce", "Chicken", "onion"],
-            soldOut: false,
+            soldOut: true,
         },
         {
             id: 19,
