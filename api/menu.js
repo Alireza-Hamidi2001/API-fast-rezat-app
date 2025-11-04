@@ -208,7 +208,7 @@ const menu = {
             soldOut: false,
         },
         {
-            id: 17,
+            id: 20,
             name: "Pepsi",
             category: "drinks",
             unitPrice: 8,
@@ -218,7 +218,7 @@ const menu = {
             soldOut: false,
         },
         {
-            id: 18,
+            id: 21,
             name: "Sprite",
             category: "drinks",
             unitPrice: 8,
